@@ -17,7 +17,7 @@ Work experience
 ======
 * Oct.2022-Present: Research Assistant
   * Department of Automation, Shanghai Jiao Tong University
-  * Topics: Nox-convex Optimization, Online learning, Decision Making
+  * Topics: Nox-Convex Optimization, Online learning, Decision Making
   * Supervisor: Prof.Jianping He
 
 * March. 2023-Nov. 2023: Research Assistant
