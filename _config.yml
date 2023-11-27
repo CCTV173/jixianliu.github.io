@@ -11,7 +11,7 @@ title                    : "Jixian Liu/ Mr."
 title_separator          : "-"
 name                     : &name "Jixian Liu"
 description              : &description "personal description"
-url                      : https://jixianliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cctv173.github.io/jixianliu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "CCTV173/jixianliu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jixian Liu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Hi, welcome to my page!"
   location         : "#28 Xianning West Road, Xi'an, Shaanxi, China"
   employer         :
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/CCTV173"
   google_plus      :
   keybase          :
   instagram        :
