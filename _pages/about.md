@@ -14,14 +14,21 @@ In my spare time, I am a big fun of long distance running. My personal best for 
 
 News
 ======
-**10.26.2023**: I got the China National Scholarship (Top 2%).
-**09.22.2023**: I got the Top-10 Undergraduate Students of the Year (Top Personal Award in Xi’an Jiaotong University).
-**09.16.2023**: One Paper about the Differential Privacy in Virtual Power Plants has been submitted to the **23rd Power Systems Computation Conference**
-**09.09.2023**: Our Paper, **Enabling Net Zero Energy Buildings with Shared Storage: A Cyber-Physical Perspective**, has been submitted to the **IEEE Internet of Thins Journal**
-**08.04.2023**: Our Paper, **Enabling Net Zero Energy Buildings with Shared Storage: A Cyber-Physical Perspective** has been submitted to the **IEEE Internet of Thins Journal** 
-**10.26.2022**:I got the China National Scholarship (Top 2%).
-**11.18.2021**: Special Scholarship of Xi'an Jiaotong University (10/20000+, 10 Undergraduates per Year).
-**09.01.2020**: My undergraduate life began.
+**10.26.2023**: I got the China National Scholarship (Top 2%).\
+
+**09.22.2023**: I got the Top-10 Undergraduate Students of the Year (Top Personal Award in Xi’an Jiaotong University).\
+
+**09.16.2023**: One Paper about the Differential Privacy in Virtual Power Plants has been submitted to the **23rd Power Systems Computation Conference**\
+
+**09.09.2023**: Our Paper, **Enabling Net Zero Energy Buildings with Shared Storage: A Cyber-Physical Perspective**, has been submitted to the **IEEE Internet of Thins Journal**\
+
+**08.04.2023**: Our Paper, **Enabling Net Zero Energy Buildings with Shared Storage: A Cyber-Physical Perspective** has been submitted to the **IEEE Internet of Thins Journal**\
+
+**10.26.2022**:I got the China National Scholarship (Top 2%).\
+
+**11.18.2021**: Special Scholarship of Xi'an Jiaotong University (10/20000+, 10 Undergraduates per Year).\
+
+**09.01.2020**: My undergraduate life began.\
 
 For more info
 ------
