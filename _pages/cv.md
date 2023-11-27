@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics (Interdispline Training Programme), Xi'an Jiaotong University, 2024 (Expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct.2022-Present: Research Assistant
+  * Department of Automation, Shanghai Jiao Tong University
+  * Topics: Nox-convex Optimization, Online learning, Decision Making
+  * Supervisor: Prof.Jianping He
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* March. 2023-Nov. 2023: Research Assistant
+  * Department of Electrical and Electronic Engineering, University of Hong Kong 
+  * Topics: Diffierential Privacy, Distributed Optimization, Data Analytics
+  * Supervisor: Prof. Yi Wang
+
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language: Python, Julia, C, MATLAB, Latex, HTML
+* Language: Mandarin (Native Speaker), English (Professional)
+* Machine Learning Framework: Pytorch
 
 Publications
 ======
@@ -42,18 +39,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* The President in Charge of Study of the College Student Union (over 1300 Students)
+* The Commissary in Charge of Study of the Class (35 Students)
+* Peer Reviewer of the IET Renewable Power Generation Journal
