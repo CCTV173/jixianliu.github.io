@@ -25,6 +25,10 @@ Work experience
   * Topics: Diffierential Privacy, Distributed Optimization, Data Analytics
   * Supervisor: Prof. Yi Wang
 
+* July. 2023-August. 2023: Research Assistant
+  * School of Engineering, Westlake University 
+  * Topics: Novel Designs of GaAs-based Ohmic Contacts
+  * Supervisor: Prof. Wei Kong
 
   
 Skills
