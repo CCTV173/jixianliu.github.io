@@ -22,9 +22,9 @@ News
 
 * **09.16.2023**: One Paper about the Differential Privacy in Virtual Power Plants has been submitted to the **23rd Power Systems Computation Conference**
 
-* **09.09.2023**: Our Paper, **Enabling Net Zero Energy Buildings with Shared Storage: A Cyber-Physical Perspective**, has been submitted to the **IEEE Internet of Thins Journal**
+* **09.09.2023**: Our Paper, **Enabling Net Zero Energy Buildings with Shared Storage: A Cyber-Physical Perspective**, has been submitted to the **IEEE Internet of Things Journal**
 
-* **08.04.2023**: Our Paper, **Enabling Net Zero Energy Buildings with Shared Storage: A Cyber-Physical Perspective** has been submitted to the **IEEE Internet of Thins Journal**
+* **08.04.2023**: Our Paper, **Enabling Net Zero Energy Buildings with Shared Storage: A Cyber-Physical Perspective** has been submitted to the **IEEE Internet of Things Journal**
 
 * **10.26.2022**: I got the China National Scholarship (Top 2%).
 
