@@ -10,7 +10,7 @@ redirect_from:
 
 My name is **Jixian Liu**, and I am an undergraduate student at Xi'an Jiaotong University (XJTU). I have grown up in **Pingdingshan**, a small city situated in the heart of China, whose main industry is coal mining. I do really love the friendliness and innocence of the people in my hometown. 
 
-My research interests are: **Data Analytics, Reinforcement Learning, Data-driven Control, Optimization, Trustworthy AI**.
+My research interests are: **Multi-agent Systems, Reinforcement Learning, Data-driven Control, Optimization, Trustworthy AI**.
 
 In my spare time, I am a big fun of long distance running. My personal best for 5km is 18 minutes 14 seconds and my personal best for 10km is 38 minutes 29 seconds. 
 
