@@ -48,4 +48,4 @@ Service and leadership
 ======
 * The President in Charge of Study of the College Student Union (over 1300 Students)
 * The Commissary in Charge of Study of the Class (35 Students)
-* Peer Reviewer of the IET Renewable Power Generation Journal
+* Reviewer of the IET Renewable Power Generation Journal
