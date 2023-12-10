@@ -21,7 +21,7 @@ Work experience
   * Supervisor: Prof. Jianping He
 
 * March. 2023-Nov. 2023: Research Assistant
-  * Department of Electrical and Electronic Engineering, University of Hong Kong 
+  * Department of Electrical and Electronic Engineering, The University of Hong Kong 
   * Topics: Diffierential Privacy, Distributed Optimization, Data Analytics
   * Supervisor: Prof. Yi Wang
 
