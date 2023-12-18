@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is **Jixian Liu**, and I am an undergraduate student at Xi'an Jiaotong University (XJTU). I have grown up in **Pingdingshan**, a small city situated in the heart of China, whose main industry is coal mining. I do really love the friendliness and innocence of the people in my hometown. 
+My name is **Jixian Liu (刘济衔)**, and I am an undergraduate student at Xi'an Jiaotong University (XJTU). I have grown up in **Pingdingshan**, a small city situated in the heart of China, whose main industry is coal mining. I do really love the friendliness and innocence of the people in my hometown. 
 
 My research interests are: **Multi-agent Systems, Machine Learning, Data Analytics, Optimization, Trustworthy AI, AIoT**.
 
