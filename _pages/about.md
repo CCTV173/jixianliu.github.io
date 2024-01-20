@@ -10,13 +10,13 @@ redirect_from:
 
 My name is **Jixian Liu (刘济衔)**, and I am an undergraduate student at Xi'an Jiaotong University (XJTU). I have grown up in **Pingdingshan**, a small city situated in the heart of China, whose main industry is coal mining. I do really love the friendliness and innocence of the people in my hometown. 
 
-My research interests are: **Multi-agent Systems, Machine Learning, Data Analytics, Optimization, Trustworthy AI, AIoT**.
+My research interests are: **Multi-agent Systems, Machine Learning, Data Analytics, Optimization, Control Theory, AIoT**.
 
 In my spare time, I am a big fun of long distance running. My personal best for 5km is 18 minutes 14 seconds and my personal best for 10km is 38 minutes 29 seconds. 
 
 News
 ======
-* **10.26.2023**: I got the China National Scholarship (Top 2%).
+* **10.26.2023**: I got the China National Scholarship (Top 1%).
 
 * **09.22.2023**: I got the Top-10 Undergraduate Students of the Year (Top Personal Award in Xi’an Jiaotong University).
 
@@ -26,7 +26,7 @@ News
 
 * **08.04.2023**: Our Paper, **Enabling Net Zero Energy Buildings with Shared Storage: A Cyber-Physical Perspective** has been submitted to the **IEEE Internet of Things Journal**
 
-* **10.26.2022**: I got the China National Scholarship (Top 2%).
+* **10.26.2022**: I got the China National Scholarship (Top 1%).
 
 * **11.18.2021**: I got the Presidential Scholarship of Xi'an Jiaotong University (10/20000+, 10 Undergraduates per Year).
 
